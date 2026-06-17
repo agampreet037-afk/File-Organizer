@@ -21,9 +21,8 @@ Instead of manually sorting files, this script scans a directory and moves files
 
 ### Before vs After
 
-![Before vs After](images/before-after.png)
+![Before vs After](Before vs After.png)
 
-> *(Replace the path above with your uploaded collage image.)*
 
 ---
 
