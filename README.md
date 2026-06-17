@@ -21,7 +21,7 @@ Instead of manually sorting files, this script scans a directory and moves files
 
 ### Before vs After
 
-[Before vs After](Before vs After.png)
+![Before vs After](Before vs After.png)
 
 
 ---
